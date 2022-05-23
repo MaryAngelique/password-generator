@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Password Generator GitHub Solution](https://github.com/MaryAngelique/password-generator)
-- Live Site URL: [ Website](Deployed website)
+- Live Site URL: [Password Generator Website](https://password-generator-cappa.vercel.app/)
 
 ## My process
 
