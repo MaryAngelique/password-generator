@@ -24,6 +24,7 @@ Users should be able to:
 #### - 
 
 ### Features
+[![PROJECT DEMO](https://dotcom.nlcdn.com/wp-content/uploads/2020/03/Product_Demo_Featured-1140x768@2x-80-min.jpg)](loom)
 
 ### Project Demo
 
@@ -31,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [ GitHub Solution](GitHub )
+- Solution URL: [Password Generator GitHub Solution](https://github.com/MaryAngelique/password-generator)
 - Live Site URL: [ Website](Deployed website)
 
 ## My process
