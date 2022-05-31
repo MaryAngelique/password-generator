@@ -19,7 +19,7 @@ Users should be able to:
 
 #### - Generate a password based on the choices that were given: numbers, symbols, lowercase, and uppercase letters
 
-#### - Choose the password lenght
+#### - Choose the password length
 
 
 ### Features
